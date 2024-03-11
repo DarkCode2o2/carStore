@@ -8,7 +8,7 @@ Breadcrumbs::for('index', function ($trail) {
 // home > cars
 Breadcrumbs::for('allcars', function ($trail) {
     $trail->parent('index');
-    $trail->push('قائمة السيارات', route('cars'));
+    $trail->push('سيارات البيع المباشر', route('cars'));
 });
 
 
@@ -22,7 +22,7 @@ Breadcrumbs::for('showCar', function ($trail, $car, ) {
 // home > auction cars
 Breadcrumbs::for('auctions', function ($trail) {
     $trail->parent('index');
-    $trail->push('قائمة سيارات المزاد', route('auctions'));
+    $trail->push('سيارات المزاد', route('auctions'));
 });
 
 

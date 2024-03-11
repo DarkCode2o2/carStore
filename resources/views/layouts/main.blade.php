@@ -123,14 +123,14 @@
                         أبو بدر لاستيراد السيارات الكورية يقدم لكم خبرته الطويلة في استيراد سيارات الديزل والبنزين من دولة كوريا الجنوبية. 
                     </h3>
                 </div>
-                <div class="">
+                <div>
                     <h3 class="mt-5 sm:mb-10 mb-5 sm:text-2xl text-xl text-white font-bold">شركاء النجاح</h3>
                     <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 ">
                         <li>
-                            <a href="https://wa.me/966505700333" target="_blank" title="شركاء النجاح" class="text-white sm:text-xl text-lg block mb-5 hover:text-main-back font-normal transition-all ease-linear"><i class="fa-solid fa-handshake"></i> السواري العربية</a>
+                            <a href="https://wa.me/966505700333" target="_blank" title="شركاء النجاح" class="text-white sm:text-xl text-lg block mb-5 hover:text-main-back font-normal transition-all ease-linear"> <i class="fa-solid fa-handshake"></i> السواري العربية لصيانة سيارات الديزل </a>
                         </li>
                         <li>
-                            <a href="https://wa.me/966507907300" target="_blank" title="شركاء النجاح" class="text-white sm:text-xl text-lg block mb-5 hover:text-main-back font-normal transition-all ease-linear"><i class="fa-solid fa-handshake"></i> المركز السعودي السوري</a>
+                            <a href="https://wa.me/966507907300" target="_blank" title="شركاء النجاح" class="text-white sm:text-xl text-lg block mb-5 hover:text-main-back font-normal transition-all ease-linear"><i class="fa-solid fa-handshake"></i> المركز السعودي السوري لصيانة سيارات الديزل</a>
                         </li>
                     </ul>
                 </div>
